@@ -1,0 +1,1 @@
+This simple web app leverages the power of LLaMA Vision 2.5 running locally on your machine. Users can upload an image along with a prompt, and the locally hosted LLM processes the input to generate a response. The backend is built with Flask, while the frontend features a clean and minimal HTML/CSS interface for a seamless user experience.
